@@ -1,6 +1,6 @@
 from person import Person
 class Student(Person):
-    def __init__(self,*args ,course):
+    def __init__(self,*args, course):
         super().__init__(*args)
         self.course = course
 
