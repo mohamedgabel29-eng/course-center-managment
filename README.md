@@ -21,7 +21,7 @@ This project simulates a training center where students can enroll in courses, s
 
 * Add a new student
 * Search for available courses
-* dispaly courses 
+* Display courses 
 * Enroll in one or more courses
 
 ---
@@ -83,7 +83,7 @@ ID: 162007
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/course-center-management-system.git
+git clone git clone https://github.com/mohamedgabel29-eng/course-center-managment.git
 ```
 
 Navigate to the project folder:
